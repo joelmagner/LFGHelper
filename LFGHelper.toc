@@ -1,0 +1,9 @@
+## Interface: 62000
+## Title: LFGHelper
+## Author: Joel
+## DefaultState: enabled
+## SavedVariables: LFGHelperDB
+## Version: 1.3
+
+Config.lua
+Init.lua
