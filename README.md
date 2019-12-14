@@ -22,6 +22,7 @@ Command | Description
 /lfg help|Brings up the help menu
 
 Example usage:
+
 Command | Description
 -------------|----------
 | /lfg delay=10 |Sets delay to 10seconds between messages
