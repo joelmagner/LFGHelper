@@ -1,4 +1,5 @@
 # LFGHelper
+Download from CurseForge: https://www.curseforge.com/wow/addons/lfghelper
 
 A simple & lightweight **LFG/LFM** tool that makes it easier to find a group.
 This tool will make the **LFG/LFM** spams much easier!
